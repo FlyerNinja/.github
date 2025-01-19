@@ -4,15 +4,15 @@
 
 ## Progetti Principali 📌
 
-### [Node Bot](https://github.com/FlyerNinja/waPiuService)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlyerNinja&repo=waPiuService)](https://github.com/FlyerNinja/waPiuService)
+### [Py Bot](https://github.com/FlyerNinja/waPiuPython)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlyerNinja&repo=waPiuService)](https://github.com/FlyerNinja)
 
 
 ### [Dashboard](https://github.com/FlyerNinja/waPiuDashboard)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlyerNinja&repo=waPiuDashboard)](https://github.com/FlyerNinja/waPiuDashboard)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlyerNinja&repo=waPiuDashboard)](https://github.com/FlyerNinja)
 
 ### [Renderer](https://github.com/FlyerNinja/waPiuRenderer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlyerNinja&repo=waPiuRenderer)](https://github.com/FlyerNinja/waPiuRenderer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlyerNinja&repo=waPiuRenderer)](https://github.com/FlyerNinja)
 
 
 ## Contribuisci 🚀
