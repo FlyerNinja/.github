@@ -1,8 +1,14 @@
 # FlyerNinja! 🥷
 
-**FlyerNinja** è la codegang di VolantinoPiu, in questa organizzazione trovi tutti i codici dedicati allo sviluppo whatsapp
+**FlyerNinja** è la codegang di VolantinoPiu, in questa organizzazione trovi tutti i codici dedicati allo sviluppo vpiu, wapiu e digital signage
 
 ## Progetti Principali 📌
+
+### vpiu
+
+@wip
+
+### wawa
 
 ### [Py Bot](https://github.com/FlyerNinja/waPiuPython)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlyerNinja&repo=waPiuService)](https://github.com/FlyerNinja)
